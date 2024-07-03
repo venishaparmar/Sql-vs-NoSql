@@ -61,3 +61,5 @@ Choosing between SQL and NoSQL depends on your application's needs. SQL offers s
 Ready to dive deeper into database management? Analyze your data requirements and scalability needs, and experiment with both SQL and NoSQL databases to find the perfect fit for your project.
 
 Happy coding!
+
+Read More:[Blog Link](https://medium.com/@parmarvenisha725/sql-vs-nosql-understanding-the-differences-and-knowing-when-to-use-each-99bd6c3ee1b3)
